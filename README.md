@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [Twitter Brand Enhancer](https://github.com/othmanelamnabhi/twitter-brand-enhancer)
 
+- 🌱 I’m currently learning **React**
+
 - 👨‍💻 All of my projects are available at [https://github.com/othmanelamnabhi?tab=repositories](https://github.com/othmanelamnabhi?tab=repositories)
 
 - 💬 And dying to learn **tailwind, nextjs**
