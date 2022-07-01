@@ -1,10 +1,10 @@
 # 💫About Me :
 <h1 align="center">Hi 👋, I'm Othmane Lamnabhi</h1>
-<h3 align="center">A Full Stack Developer from 🇲🇦</h3>
+<h3 align="center">A Full Stack Developer from 🇨🇦</h3>
 
-- 🔭 I’m currently working on my [Personal Website](https://github.com/othmanelamnabhi/portfolio-thewannabedev).
+- 🔭 I just released my [Personal Website](https://github.com/othmanelamnabhi/portfolio-thewannabedev).
 
-- 🌱 Learning **Next.js** at the moment.
+- 🌱 Latest piece of tech I got to play with was **Next.js**.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/othmanelamnabhi?tab=repositories).
 
